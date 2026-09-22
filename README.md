@@ -1,4 +1,4 @@
-# 👋 Hola, soy Charlix
+# 👋 Hola, soy Carlos Hernandez
 
 Desarrollador enfocado en **Automatización con Python**, **Web Scraping** y **Servicios en la Nube**. Me especializo en construir herramientas para la extracción masiva de datos, integración de APIs y reportes automatizados sin necesidad de mantener servidores encendidos.
 
